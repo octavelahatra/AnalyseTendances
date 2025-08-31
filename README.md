@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Développement de nouveaux produits/services grâce à l’analyse des tendances (Big Data)
 
 ## 1. Contexte et problématique
@@ -56,3 +57,7 @@ L’analyse de tendances Big Data permet d’**industrialiser l’innovation** :
 ## Références (cours et notions)
 - Cours « Initiation au Big Data » : 4V, NoSQL (clé/valeur, colonne, document, graphe), rôles (CDO, Data Scientist, DPO), architectures Hadoop/Spark, applications (développement de nouveaux produits via tendances), etc.
 - Bonnes pratiques NLP et séries temporelles (z‑score, rolling mean).
+=======
+# AnalyseTendances
+Analyse de Tendances (BIG DATA)
+>>>>>>> 32d43a3e91aed7e386a6302a4737f36b967b989e
